@@ -5,11 +5,6 @@
   Tegucigalpa, Honduras 🇭🇳
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chris2555&label=Visitas%20al%20perfil&color=brightgreen&style=plastic" alt="Visitas al perfil" />
-  <a href="https://github.com/chris2555?tab=followers"><img src="https://img.shields.io/github/followers/chris2555?label=Seguidores&style=social" alt="Seguidores"></a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
@@ -19,7 +14,6 @@
 - 📊 Elaboro reportes y dashboards con Power BI, Looker Studio y Excel
 - 🔐 Practico ciberseguridad con laboratorios y CTF de red team y blue team en Hack The Box, y análisis de vulnerabilidades con OpenVAS
 - 🌐 Desarrollo web con React, Astro, Laravel y JavaScript
-- 📫 Contacto: **christianhernandez3050@gmail.com**
 - 💬 Pregúntame sobre: soporte TI, SQL, Python, análisis de datos, desarrollo web o ciberseguridad
 
 ---
