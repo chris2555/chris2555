@@ -54,26 +54,7 @@
   <img alt="Freshservice" src="https://img.shields.io/badge/Freshservice-2C5CC5?style=for-the-badge&logoColor=white"/>
 </div>
 
----
 
-## 🚥 Actividad en GitHub
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris2555&langs_count=8&show_icons=true&locale=es&layout=compact&theme=chartreuse-dark" alt="Lenguajes más usados" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chris2555&show_icons=true&locale=es&theme=chartreuse-dark" alt="Estadísticas de GitHub" width="410"/>
-</p>
-
-<br><br><br><br><br><br><br><br>
-
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=chris2555&custom_title=Actividad%20en%20GitHub&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chris2555&layout=compact&theme=algolia" alt="Trofeos de GitHub" />
-  </a>
-</p>
-
----
 
 ## 😎 Conecta conmigo
 
@@ -83,7 +64,7 @@
   <a href="https://github.com/chris2555" target="blank"><img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-<sub>Plantilla basada en el perfil de [iscpatricio92](https://github.com/iscpatricio92).</sub>
+
 
 <!--
 **chris2555/chris2555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
